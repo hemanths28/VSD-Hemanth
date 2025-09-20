@@ -198,7 +198,48 @@ make --version                # ✅ Working
 - **Tool Integration:** All VLSI tools properly integrated and verified
 - **Development Ready:** Environment prepared for Day 1 Verilog RTL Design and Synthesis
 
-### Installation Screenshots
+### Tool Installation Screenshots
+
+#### 1. Yosys Synthesis Tool
+![Yosys Version](screenshots/day0/yosys_version.png)
+*Yosys - Open-source synthesis framework for RTL synthesis*
+
+#### 2. Iverilog Verilog Simulator
+![Iverilog Version](screenshots/day0/iverilog_version.png)
+*Icarus Verilog - Verilog simulation and synthesis tool*
+
+#### 3. GTKWave Waveform Viewer
+![GTKWave Version](screenshots/day0/gtkwave_version.png)
+*GTKWave - Waveform viewer for simulation results*
+
+#### 4. OpenSTA Static Timing Analyzer
+![OpenSTA Version](screenshots/day0/opensta_version.png)
+*OpenSTA - Static timing analysis tool*
+
+#### 5. Magic VLSI Layout Tool
+![Magic Version](screenshots/day0/magic_version.png)
+*Magic - VLSI layout design tool*
+
+#### 6. ngspice Circuit Simulator
+![ngspice Version](screenshots/day0/ngspice_version.png)
+*ngspice - SPICE simulator for analog and mixed-signal circuits*
+
+#### 7. Docker Container Platform
+![Docker Version](screenshots/day0/docker_version.png)
+*Docker - Container platform for OpenLANE*
+
+#### 8. Git Version Control
+![Git Version](screenshots/day0/git_version.png)
+*Git - Version control system*
+
+#### 9. Python Programming Language
+![Python Version](screenshots/day0/python_version.png)
+*Python - Programming language for scripts and tools*
+
+#### 10. Make Build Tool
+![Make Version](screenshots/day0/make_version.png)
+*Make - Build automation tool*
+
 
 #### Repository Fix Success
 ```
